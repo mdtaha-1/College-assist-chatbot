@@ -17,8 +17,8 @@ College Assist is an AI-powered chatbot that helps students get quick answers to
 - OpenAI API
 - Custom utilities for FAQ matching and AI response handling
 ## ▶️ Running the Project
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 ## 📂 Folder Structure
 
